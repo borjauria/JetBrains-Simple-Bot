@@ -1,3 +1,5 @@
+https://img.shields.io/github/last-commit/borjauria/JetBrains-Simple-Bot?style=for-the-badge
+
 # Simple Chatty Bot - Jet Brains Python Project
 This is a simple bot created to learn more about Python. It uses loops, conditionals and expressions.
 
