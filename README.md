@@ -1,5 +1,3 @@
-https://img.shields.io/github/last-commit/borjauria/JetBrains-Simple-Bot?style=for-the-badge
-
 # Simple Chatty Bot - Jet Brains Python Project
 This is a simple bot created to learn more about Python. It uses loops, conditionals and expressions.
 
@@ -11,3 +9,5 @@ If you download this code in your computer you will be able to use it, learn wit
 
 # License
 This project is licensed under the terms of the MIT license.
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
