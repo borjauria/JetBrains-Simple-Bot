@@ -11,3 +11,4 @@ If you download this code in your computer you will be able to use it, learn wit
 This project is licensed under the terms of the MIT license.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
